@@ -1,5 +1,5 @@
 {
-    "name": "ac-toulouse/clear-trust-bundle",
+    "name": "ac-nantes/clear-trust-bundle",
     "type": "symfony-bundle",
     "description": "RSA ClearTrust authentication",
     "keywords": ["RSA", "ClearTrust", "Symfony2", "Authentication"],
@@ -15,8 +15,8 @@
         "symfony/symfony": "3.*"
     },
     "autoload": {
-        "psr-0": { "AcToulouse\\ClearTrustBundle": "" }
+        "psr-0": { "AcNantes\\ClearTrustBundle": "" }
     },
-    "target-dir": "AcToulouse/ClearTrustBundle"
+    "target-dir": "AcNantes/ClearTrustBundle"
 
 }
