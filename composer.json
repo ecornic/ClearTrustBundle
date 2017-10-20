@@ -3,7 +3,7 @@
     "type": "symfony-bundle",
     "description": "RSA ClearTrust authentication",
     "keywords": ["RSA", "ClearTrust", "Symfony2", "Authentication"],
-    "homepage": "https://github.com/git-dsi-da/ClearTrustBundle",
+    "homepage": "https://github.com/ecornic/ClearTrustBundle",
     "license": "CeCILL-B",
     "authors": [
         {
